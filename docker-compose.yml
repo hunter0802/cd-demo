@@ -2,7 +2,7 @@ version: '3'
 
 services:
   app:
-    image: ashokpoudel/cddemo:latest
+    image: huntermoise/cddemo:latest
     container_name: cddemo
     restart: always
     ports:
